@@ -7,20 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9771F96024C5472900AC352D /* NextController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9771F95F24C5472900AC352D /* NextController.swift */; };
+		9771F96524C5544400AC352D /* adAstra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9771F96124C5544400AC352D /* adAstra.jpg */; };
+		9771F96624C5544400AC352D /* aviator.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9771F96224C5544400AC352D /* aviator.jpg */; };
+		9771F96724C5544400AC352D /* interstellar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9771F96324C5544400AC352D /* interstellar.jpg */; };
+		9771F96824C5544400AC352D /* gravity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9771F96424C5544400AC352D /* gravity.jpg */; };
 		97BFA3AF24C4AE9F005AACA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BFA3AE24C4AE9F005AACA9 /* AppDelegate.swift */; };
 		97BFA3B124C4AE9F005AACA9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BFA3B024C4AE9F005AACA9 /* SceneDelegate.swift */; };
 		97BFA3B324C4AE9F005AACA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BFA3B224C4AE9F005AACA9 /* ViewController.swift */; };
 		97BFA3B624C4AE9F005AACA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97BFA3B424C4AE9F005AACA9 /* Main.storyboard */; };
 		97BFA3B824C4AEA0005AACA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97BFA3B724C4AEA0005AACA9 /* Assets.xcassets */; };
 		97BFA3BB24C4AEA0005AACA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97BFA3B924C4AEA0005AACA9 /* LaunchScreen.storyboard */; };
-		97BFA3C624C4C919005AACA9 /* gravity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 97BFA3C224C4C919005AACA9 /* gravity.jpg */; };
-		97BFA3C724C4C919005AACA9 /* adAstra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 97BFA3C324C4C919005AACA9 /* adAstra.jpg */; };
-		97BFA3C824C4C919005AACA9 /* aviator.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 97BFA3C424C4C919005AACA9 /* aviator.jpg */; };
-		97BFA3C924C4C919005AACA9 /* interstellar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 97BFA3C524C4C919005AACA9 /* interstellar.jpg */; };
-		97BFA3D124C4E540005AACA9 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BFA3D024C4E540005AACA9 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9771F95F24C5472900AC352D /* NextController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextController.swift; sourceTree = "<group>"; };
+		9771F96124C5544400AC352D /* adAstra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = adAstra.jpg; path = movies/adAstra.jpg; sourceTree = "<group>"; };
+		9771F96224C5544400AC352D /* aviator.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = aviator.jpg; path = movies/aviator.jpg; sourceTree = "<group>"; };
+		9771F96324C5544400AC352D /* interstellar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = interstellar.jpg; path = movies/interstellar.jpg; sourceTree = "<group>"; };
+		9771F96424C5544400AC352D /* gravity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gravity.jpg; path = movies/gravity.jpg; sourceTree = "<group>"; };
 		97BFA3AB24C4AE9F005AACA9 /* Assignment4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97BFA3AE24C4AE9F005AACA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		97BFA3B024C4AE9F005AACA9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -29,11 +34,6 @@
 		97BFA3B724C4AEA0005AACA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97BFA3BA24C4AEA0005AACA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97BFA3BC24C4AEA0005AACA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		97BFA3C224C4C919005AACA9 /* gravity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gravity.jpg; path = ../../movies/gravity.jpg; sourceTree = "<group>"; };
-		97BFA3C324C4C919005AACA9 /* adAstra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = adAstra.jpg; path = ../../movies/adAstra.jpg; sourceTree = "<group>"; };
-		97BFA3C424C4C919005AACA9 /* aviator.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = aviator.jpg; path = ../../movies/aviator.jpg; sourceTree = "<group>"; };
-		97BFA3C524C4C919005AACA9 /* interstellar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = interstellar.jpg; path = ../../movies/interstellar.jpg; sourceTree = "<group>"; };
-		97BFA3D024C4E540005AACA9 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,15 +69,15 @@
 				97BFA3AE24C4AE9F005AACA9 /* AppDelegate.swift */,
 				97BFA3B024C4AE9F005AACA9 /* SceneDelegate.swift */,
 				97BFA3B224C4AE9F005AACA9 /* ViewController.swift */,
+				9771F95F24C5472900AC352D /* NextController.swift */,
 				97BFA3B424C4AE9F005AACA9 /* Main.storyboard */,
-				97BFA3D024C4E540005AACA9 /* NextViewController.swift */,
 				97BFA3B724C4AEA0005AACA9 /* Assets.xcassets */,
 				97BFA3B924C4AEA0005AACA9 /* LaunchScreen.storyboard */,
 				97BFA3BC24C4AEA0005AACA9 /* Info.plist */,
-				97BFA3C324C4C919005AACA9 /* adAstra.jpg */,
-				97BFA3C424C4C919005AACA9 /* aviator.jpg */,
-				97BFA3C224C4C919005AACA9 /* gravity.jpg */,
-				97BFA3C524C4C919005AACA9 /* interstellar.jpg */,
+				9771F96124C5544400AC352D /* adAstra.jpg */,
+				9771F96224C5544400AC352D /* aviator.jpg */,
+				9771F96424C5544400AC352D /* gravity.jpg */,
+				9771F96324C5544400AC352D /* interstellar.jpg */,
 				97BFA3AC24C4AE9F005AACA9 /* Products */,
 			);
 			path = Assignment4;
@@ -141,13 +141,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97BFA3C824C4C919005AACA9 /* aviator.jpg in Resources */,
-				97BFA3C624C4C919005AACA9 /* gravity.jpg in Resources */,
+				9771F96824C5544400AC352D /* gravity.jpg in Resources */,
 				97BFA3BB24C4AEA0005AACA9 /* LaunchScreen.storyboard in Resources */,
-				97BFA3C724C4C919005AACA9 /* adAstra.jpg in Resources */,
 				97BFA3B824C4AEA0005AACA9 /* Assets.xcassets in Resources */,
+				9771F96724C5544400AC352D /* interstellar.jpg in Resources */,
+				9771F96524C5544400AC352D /* adAstra.jpg in Resources */,
 				97BFA3B624C4AE9F005AACA9 /* Main.storyboard in Resources */,
-				97BFA3C924C4C919005AACA9 /* interstellar.jpg in Resources */,
+				9771F96624C5544400AC352D /* aviator.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,8 +159,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				97BFA3B324C4AE9F005AACA9 /* ViewController.swift in Sources */,
-				97BFA3D124C4E540005AACA9 /* NextViewController.swift in Sources */,
 				97BFA3AF24C4AE9F005AACA9 /* AppDelegate.swift in Sources */,
+				9771F96024C5472900AC352D /* NextController.swift in Sources */,
 				97BFA3B124C4AE9F005AACA9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
